@@ -1,0 +1,102 @@
+{
+  "100": {
+    "r": 100,
+    "FI_same_encoder": {
+      "key_bytes": 1655,
+      "max_key_bytes": 31,
+      "mean_key_bytes": 16.55,
+      "sqlite_4k": {
+        "db_bytes": 8192,
+        "pages": 2,
+        "overflow_pages": 0
+      }
+    },
+    "SRI_same_encoder": {
+      "key_bytes": 234,
+      "max_key_bytes": 3,
+      "mean_key_bytes": 2.34,
+      "sqlite_4k": {
+        "db_bytes": 8192,
+        "pages": 2,
+        "overflow_pages": 0
+      }
+    },
+    "key_byte_ratio": 7.072649572649572,
+    "sqlite_file_ratio": 1.0
+  },
+  "1000": {
+    "r": 1000,
+    "FI_same_encoder": {
+      "key_bytes": 150471,
+      "max_key_bytes": 299,
+      "mean_key_bytes": 150.471,
+      "sqlite_4k": {
+        "db_bytes": 204800,
+        "pages": 50,
+        "overflow_pages": 0
+      }
+    },
+    "SRI_same_encoder": {
+      "key_bytes": 2934,
+      "max_key_bytes": 3,
+      "mean_key_bytes": 2.934,
+      "sqlite_4k": {
+        "db_bytes": 36864,
+        "pages": 9,
+        "overflow_pages": 0
+      }
+    },
+    "key_byte_ratio": 51.285276073619634,
+    "sqlite_file_ratio": 5.555555555555555
+  },
+  "5000": {
+    "r": 5000,
+    "FI_same_encoder": {
+      "key_bytes": 3729418,
+      "max_key_bytes": 1490,
+      "mean_key_bytes": 745.8836,
+      "sqlite_4k": {
+        "db_bytes": 9850880,
+        "pages": 2405,
+        "overflow_pages": 1704
+      }
+    },
+    "SRI_same_encoder": {
+      "key_bytes": 18911,
+      "max_key_bytes": 4,
+      "mean_key_bytes": 3.7822,
+      "sqlite_4k": {
+        "db_bytes": 155648,
+        "pages": 38,
+        "overflow_pages": 0
+      }
+    },
+    "key_byte_ratio": 197.208926021892,
+    "sqlite_file_ratio": 63.28947368421053
+  },
+  "10000": {
+    "r": 10000,
+    "FI_same_encoder": {
+      "key_bytes": 14901561,
+      "max_key_bytes": 2978,
+      "mean_key_bytes": 1490.1561,
+      "sqlite_4k": {
+        "db_bytes": 33255424,
+        "pages": 8119,
+        "overflow_pages": 6704
+      }
+    },
+    "SRI_same_encoder": {
+      "key_bytes": 38911,
+      "max_key_bytes": 4,
+      "mean_key_bytes": 3.8911,
+      "sqlite_4k": {
+        "db_bytes": 303104,
+        "pages": 74,
+        "overflow_pages": 0
+      }
+    },
+    "key_byte_ratio": 382.9652540412737,
+    "sqlite_file_ratio": 109.71621621621621
+  }
+}

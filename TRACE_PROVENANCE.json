@@ -1,0 +1,30 @@
+{
+  "repository": "josephg/editing-traces",
+  "commit": "762fa6c51605c88a05ebe5c4b9d4540caca30b97",
+  "subdirectory": "sequential_traces/ascii_only",
+  "files": {
+    "automerge-paper.json.gz": "aa7f67ec0b02d5b21e8aa16a62879fc98d8b2daf",
+    "clownschool_flat.json.gz": "93e454044cebabaeec8272baaa9957783d5fc98f",
+    "friendsforever_flat.json.gz": "1948e288b9eee60ed25cbe5f5159cee85870d012",
+    "json-crdt-blog-post.json.gz": "b6b9ecf9e6832ae5efa71a67d8bce246ab643b2b",
+    "json-crdt-patch.json.gz": "44716409837146d3a5472e156c9fedac901a52ba",
+    "rustcode.json.gz": "300aa0996dd01b27b29a46742e87e8340fab4559",
+    "seph-blog1.json.gz": "47db47afc3683a4cd8d3d55e05c55da0bbd45e93",
+    "sveltecomponent.json.gz": "9ccb0933516f04832725bfee4d66a89aa4bab04b"
+  },
+  "verification": "code/verify_trace_provenance.py computes Git blob SHA-1 from local bytes before any fresh trace replay. code/compare_rerun.py then compares deterministic rerun metrics with the archived submission outputs.",
+  "verified_repository_history_on": "2026-09-21",
+  "last_path_change": {
+    "automerge-paper.json.gz": "dfcb07e8fa793b9b04f2387997e0841b3a0bf628 (2023-05-22)",
+    "clownschool_flat.json.gz": "91dd5efa54472a4f7c6ccb8a89e4378156076640 (2023-12-21)",
+    "friendsforever_flat.json.gz": "91dd5efa54472a4f7c6ccb8a89e4378156076640 (2023-12-21)",
+    "json-crdt-blog-post.json.gz": "27c39855e36914aea3fc91b6ef94a9b2f8fb98db (2023-11-12)",
+    "json-crdt-patch.json.gz": "27c39855e36914aea3fc91b6ef94a9b2f8fb98db (2023-11-12)",
+    "rustcode.json.gz": "dfcb07e8fa793b9b04f2387997e0841b3a0bf628 (2023-05-22)",
+    "seph-blog1.json.gz": "dfcb07e8fa793b9b04f2387997e0841b3a0bf628 (2023-05-22)",
+    "sveltecomponent.json.gz": "dfcb07e8fa793b9b04f2387997e0841b3a0bf628 (2023-05-22)"
+  },
+  "note": "The eight pinned paths have not changed since the listed 2023 commits. The submission artifact verifies local bytes by Git blob SHA before any fresh replay and compares deterministic rerun metrics against archived expected outputs.",
+  "verified_manifest_blob_ids_on": "2026-09-24",
+  "verified_manifest_blob_ids_note": "The eight Git blob IDs were independently matched against the pinned GitHub directory listing at commit 762fa6c51605c88a05ebe5c4b9d4540caca30b97 on 2026-09-24."
+}

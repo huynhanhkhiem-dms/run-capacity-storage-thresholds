@@ -1,0 +1,22 @@
+{
+  "sveltecomponent__FI-62": {
+    "n": 18451,
+    "key_bytes": 24614595,
+    "db_bytes": 55111680,
+    "insert_s": 0.718,
+    "scan_s": 0.058,
+    "point2000_s": 0.104,
+    "range200_s": 0.04,
+    "scanned": 18451
+  },
+  "sveltecomponent__Farey-SRI": {
+    "n": 18451,
+    "key_bytes": 155065,
+    "db_bytes": 643072,
+    "insert_s": 0.091,
+    "scan_s": 0.009,
+    "point2000_s": 0.035,
+    "range200_s": 0.002,
+    "scanned": 18451
+  }
+}

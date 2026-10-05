@@ -1,0 +1,591 @@
+{
+  "rows": [
+    {
+      "scheme": "FI-62",
+      "r": 250,
+      "total_key_bytes": 6875,
+      "mean_key_bytes": 27.5,
+      "max_key_bytes": 52,
+      "db_bytes": 24576,
+      "page_count": 6,
+      "page_size": 4096,
+      "freelist_count": 0,
+      "pages_by_type": {
+        "internal": 1,
+        "leaf": 4
+      },
+      "max_record_payload": 71
+    },
+    {
+      "scheme": "FI-62",
+      "r": 500,
+      "total_key_bytes": 26250,
+      "mean_key_bytes": 52.5,
+      "max_key_bytes": 102,
+      "db_bytes": 49152,
+      "page_count": 12,
+      "page_size": 4096,
+      "freelist_count": 0,
+      "pages_by_type": {
+        "internal": 1,
+        "leaf": 10
+      },
+      "max_record_payload": 122
+    },
+    {
+      "scheme": "FI-62",
+      "r": 1000,
+      "total_key_bytes": 102500,
+      "mean_key_bytes": 102.5,
+      "max_key_bytes": 202,
+      "db_bytes": 151552,
+      "page_count": 37,
+      "page_size": 4096,
+      "freelist_count": 0,
+      "pages_by_type": {
+        "internal": 3,
+        "leaf": 33
+      },
+      "max_record_payload": 222
+    },
+    {
+      "scheme": "FI-62",
+      "r": 2000,
+      "total_key_bytes": 405000,
+      "mean_key_bytes": 202.5,
+      "max_key_bytes": 402,
+      "db_bytes": 495616,
+      "page_count": 121,
+      "page_size": 4096,
+      "freelist_count": 0,
+      "pages_by_type": {
+        "internal": 9,
+        "leaf": 111
+      },
+      "max_record_payload": 422
+    },
+    {
+      "scheme": "FI-62",
+      "r": 4000,
+      "total_key_bytes": 1610000,
+      "mean_key_bytes": 402.5,
+      "max_key_bytes": 802,
+      "db_bytes": 1867776,
+      "page_count": 456,
+      "page_size": 4096,
+      "freelist_count": 0,
+      "pages_by_type": {
+        "internal": 61,
+        "leaf": 394
+      },
+      "max_record_payload": 822
+    },
+    {
+      "scheme": "FI-62",
+      "r": 4500,
+      "total_key_bytes": 2036250,
+      "mean_key_bytes": 452.5,
+      "max_key_bytes": 902,
+      "db_bytes": 2375680,
+      "page_count": 580,
+      "page_size": 4096,
+      "freelist_count": 0,
+      "pages_by_type": {
+        "internal": 85,
+        "leaf": 494
+      },
+      "max_record_payload": 922
+    },
+    {
+      "scheme": "FI-62",
+      "r": 4750,
+      "total_key_bytes": 2268125,
+      "mean_key_bytes": 477.5,
+      "max_key_bytes": 952,
+      "db_bytes": 2633728,
+      "page_count": 643,
+      "page_size": 4096,
+      "freelist_count": 0,
+      "pages_by_type": {
+        "internal": 98,
+        "leaf": 544
+      },
+      "max_record_payload": 972
+    },
+    {
+      "scheme": "FI-62",
+      "r": 4900,
+      "total_key_bytes": 2413250,
+      "mean_key_bytes": 492.5,
+      "max_key_bytes": 982,
+      "db_bytes": 2785280,
+      "page_count": 680,
+      "page_size": 4096,
+      "freelist_count": 0,
+      "pages_by_type": {
+        "internal": 105,
+        "leaf": 574
+      },
+      "max_record_payload": 1002
+    },
+    {
+      "scheme": "FI-62",
+      "r": 4901,
+      "total_key_bytes": 2414233,
+      "mean_key_bytes": 492.6000816159967,
+      "max_key_bytes": 983,
+      "db_bytes": 2793472,
+      "page_count": 682,
+      "page_size": 4096,
+      "freelist_count": 0,
+      "pages_by_type": {
+        "internal": 105,
+        "leaf": 575,
+        "overflow": 1
+      },
+      "max_record_payload": 1003
+    },
+    {
+      "scheme": "FI-62",
+      "r": 5000,
+      "total_key_bytes": 2512500,
+      "mean_key_bytes": 502.5,
+      "max_key_bytes": 1002,
+      "db_bytes": 3252224,
+      "page_count": 794,
+      "page_size": 4096,
+      "freelist_count": 0,
+      "pages_by_type": {
+        "internal": 106,
+        "leaf": 587,
+        "overflow": 100
+      },
+      "max_record_payload": 1022
+    },
+    {
+      "scheme": "FI-62",
+      "r": 5100,
+      "total_key_bytes": 2613750,
+      "mean_key_bytes": 512.5,
+      "max_key_bytes": 1022,
+      "db_bytes": 3715072,
+      "page_count": 907,
+      "page_size": 4096,
+      "freelist_count": 0,
+      "pages_by_type": {
+        "internal": 107,
+        "leaf": 599,
+        "overflow": 200
+      },
+      "max_record_payload": 1042
+    },
+    {
+      "scheme": "FI-62",
+      "r": 5250,
+      "total_key_bytes": 2769375,
+      "mean_key_bytes": 527.5,
+      "max_key_bytes": 1052,
+      "db_bytes": 4419584,
+      "page_count": 1079,
+      "page_size": 4096,
+      "freelist_count": 0,
+      "pages_by_type": {
+        "internal": 110,
+        "leaf": 618,
+        "overflow": 350
+      },
+      "max_record_payload": 1072
+    },
+    {
+      "scheme": "FI-62",
+      "r": 5500,
+      "total_key_bytes": 3038750,
+      "mean_key_bytes": 552.5,
+      "max_key_bytes": 1102,
+      "db_bytes": 5591040,
+      "page_count": 1365,
+      "page_size": 4096,
+      "freelist_count": 0,
+      "pages_by_type": {
+        "internal": 115,
+        "leaf": 649,
+        "overflow": 600
+      },
+      "max_record_payload": 1122
+    },
+    {
+      "scheme": "FI-62",
+      "r": 6000,
+      "total_key_bytes": 3615000,
+      "mean_key_bytes": 602.5,
+      "max_key_bytes": 1202,
+      "db_bytes": 7929856,
+      "page_count": 1936,
+      "page_size": 4096,
+      "freelist_count": 0,
+      "pages_by_type": {
+        "internal": 123,
+        "leaf": 712,
+        "overflow": 1100
+      },
+      "max_record_payload": 1222
+    },
+    {
+      "scheme": "FI-62",
+      "r": 7000,
+      "total_key_bytes": 4917500,
+      "mean_key_bytes": 702.5,
+      "max_key_bytes": 1402,
+      "db_bytes": 12607488,
+      "page_count": 3078,
+      "page_size": 4096,
+      "freelist_count": 0,
+      "pages_by_type": {
+        "internal": 140,
+        "leaf": 837,
+        "overflow": 2100
+      },
+      "max_record_payload": 1422
+    },
+    {
+      "scheme": "FI-62",
+      "r": 8000,
+      "total_key_bytes": 6420000,
+      "mean_key_bytes": 802.5,
+      "max_key_bytes": 1602,
+      "db_bytes": 17293312,
+      "page_count": 4222,
+      "page_size": 4096,
+      "freelist_count": 0,
+      "pages_by_type": {
+        "internal": 159,
+        "leaf": 962,
+        "overflow": 3100
+      },
+      "max_record_payload": 1622
+    },
+    {
+      "scheme": "FI-62",
+      "r": 9000,
+      "total_key_bytes": 8122500,
+      "mean_key_bytes": 902.5,
+      "max_key_bytes": 1802,
+      "db_bytes": 21970944,
+      "page_count": 5364,
+      "page_size": 4096,
+      "freelist_count": 0,
+      "pages_by_type": {
+        "internal": 176,
+        "leaf": 1087,
+        "overflow": 4100
+      },
+      "max_record_payload": 1822
+    },
+    {
+      "scheme": "FI-62",
+      "r": 10000,
+      "total_key_bytes": 10025000,
+      "mean_key_bytes": 1002.5,
+      "max_key_bytes": 2002,
+      "db_bytes": 26652672,
+      "page_count": 6507,
+      "page_size": 4096,
+      "freelist_count": 0,
+      "pages_by_type": {
+        "internal": 194,
+        "leaf": 1212,
+        "overflow": 5100
+      },
+      "max_record_payload": 2022
+    },
+    {
+      "scheme": "Farey-SRI",
+      "r": 250,
+      "total_key_bytes": 719,
+      "mean_key_bytes": 2.876,
+      "max_key_bytes": 3,
+      "db_bytes": 16384,
+      "page_count": 4,
+      "page_size": 4096,
+      "freelist_count": 0,
+      "pages_by_type": {
+        "internal": 1,
+        "leaf": 2
+      },
+      "max_record_payload": 22
+    },
+    {
+      "scheme": "Farey-SRI",
+      "r": 500,
+      "total_key_bytes": 1469,
+      "mean_key_bytes": 2.938,
+      "max_key_bytes": 3,
+      "db_bytes": 24576,
+      "page_count": 6,
+      "page_size": 4096,
+      "freelist_count": 0,
+      "pages_by_type": {
+        "internal": 1,
+        "leaf": 4
+      },
+      "max_record_payload": 22
+    },
+    {
+      "scheme": "Farey-SRI",
+      "r": 1000,
+      "total_key_bytes": 3458,
+      "mean_key_bytes": 3.458,
+      "max_key_bytes": 4,
+      "db_bytes": 36864,
+      "page_count": 9,
+      "page_size": 4096,
+      "freelist_count": 0,
+      "pages_by_type": {
+        "internal": 1,
+        "leaf": 7
+      },
+      "max_record_payload": 23
+    },
+    {
+      "scheme": "Farey-SRI",
+      "r": 2000,
+      "total_key_bytes": 7458,
+      "mean_key_bytes": 3.729,
+      "max_key_bytes": 4,
+      "db_bytes": 65536,
+      "page_count": 16,
+      "page_size": 4096,
+      "freelist_count": 0,
+      "pages_by_type": {
+        "internal": 1,
+        "leaf": 14
+      },
+      "max_record_payload": 23
+    },
+    {
+      "scheme": "Farey-SRI",
+      "r": 4000,
+      "total_key_bytes": 15458,
+      "mean_key_bytes": 3.8645,
+      "max_key_bytes": 4,
+      "db_bytes": 126976,
+      "page_count": 31,
+      "page_size": 4096,
+      "freelist_count": 0,
+      "pages_by_type": {
+        "internal": 1,
+        "leaf": 29
+      },
+      "max_record_payload": 23
+    },
+    {
+      "scheme": "Farey-SRI",
+      "r": 4500,
+      "total_key_bytes": 17458,
+      "mean_key_bytes": 3.8795555555555556,
+      "max_key_bytes": 4,
+      "db_bytes": 139264,
+      "page_count": 34,
+      "page_size": 4096,
+      "freelist_count": 0,
+      "pages_by_type": {
+        "internal": 1,
+        "leaf": 32
+      },
+      "max_record_payload": 23
+    },
+    {
+      "scheme": "Farey-SRI",
+      "r": 4750,
+      "total_key_bytes": 18458,
+      "mean_key_bytes": 3.885894736842105,
+      "max_key_bytes": 4,
+      "db_bytes": 147456,
+      "page_count": 36,
+      "page_size": 4096,
+      "freelist_count": 0,
+      "pages_by_type": {
+        "internal": 1,
+        "leaf": 34
+      },
+      "max_record_payload": 23
+    },
+    {
+      "scheme": "Farey-SRI",
+      "r": 4900,
+      "total_key_bytes": 19058,
+      "mean_key_bytes": 3.8893877551020406,
+      "max_key_bytes": 4,
+      "db_bytes": 151552,
+      "page_count": 37,
+      "page_size": 4096,
+      "freelist_count": 0,
+      "pages_by_type": {
+        "internal": 1,
+        "leaf": 35
+      },
+      "max_record_payload": 23
+    },
+    {
+      "scheme": "Farey-SRI",
+      "r": 4901,
+      "total_key_bytes": 19062,
+      "mean_key_bytes": 3.889410324423587,
+      "max_key_bytes": 4,
+      "db_bytes": 151552,
+      "page_count": 37,
+      "page_size": 4096,
+      "freelist_count": 0,
+      "pages_by_type": {
+        "internal": 1,
+        "leaf": 35
+      },
+      "max_record_payload": 23
+    },
+    {
+      "scheme": "Farey-SRI",
+      "r": 5000,
+      "total_key_bytes": 19458,
+      "mean_key_bytes": 3.8916,
+      "max_key_bytes": 4,
+      "db_bytes": 155648,
+      "page_count": 38,
+      "page_size": 4096,
+      "freelist_count": 0,
+      "pages_by_type": {
+        "internal": 1,
+        "leaf": 36
+      },
+      "max_record_payload": 23
+    },
+    {
+      "scheme": "Farey-SRI",
+      "r": 5100,
+      "total_key_bytes": 19858,
+      "mean_key_bytes": 3.8937254901960783,
+      "max_key_bytes": 4,
+      "db_bytes": 159744,
+      "page_count": 39,
+      "page_size": 4096,
+      "freelist_count": 0,
+      "pages_by_type": {
+        "internal": 1,
+        "leaf": 37
+      },
+      "max_record_payload": 23
+    },
+    {
+      "scheme": "Farey-SRI",
+      "r": 5250,
+      "total_key_bytes": 20458,
+      "mean_key_bytes": 3.8967619047619046,
+      "max_key_bytes": 4,
+      "db_bytes": 163840,
+      "page_count": 40,
+      "page_size": 4096,
+      "freelist_count": 0,
+      "pages_by_type": {
+        "internal": 1,
+        "leaf": 38
+      },
+      "max_record_payload": 23
+    },
+    {
+      "scheme": "Farey-SRI",
+      "r": 5500,
+      "total_key_bytes": 21458,
+      "mean_key_bytes": 3.9014545454545453,
+      "max_key_bytes": 4,
+      "db_bytes": 172032,
+      "page_count": 42,
+      "page_size": 4096,
+      "freelist_count": 0,
+      "pages_by_type": {
+        "internal": 1,
+        "leaf": 40
+      },
+      "max_record_payload": 23
+    },
+    {
+      "scheme": "Farey-SRI",
+      "r": 6000,
+      "total_key_bytes": 23458,
+      "mean_key_bytes": 3.909666666666667,
+      "max_key_bytes": 4,
+      "db_bytes": 184320,
+      "page_count": 45,
+      "page_size": 4096,
+      "freelist_count": 0,
+      "pages_by_type": {
+        "internal": 1,
+        "leaf": 43
+      },
+      "max_record_payload": 23
+    },
+    {
+      "scheme": "Farey-SRI",
+      "r": 7000,
+      "total_key_bytes": 27458,
+      "mean_key_bytes": 3.9225714285714286,
+      "max_key_bytes": 4,
+      "db_bytes": 212992,
+      "page_count": 52,
+      "page_size": 4096,
+      "freelist_count": 0,
+      "pages_by_type": {
+        "internal": 1,
+        "leaf": 50
+      },
+      "max_record_payload": 23
+    },
+    {
+      "scheme": "Farey-SRI",
+      "r": 8000,
+      "total_key_bytes": 31458,
+      "mean_key_bytes": 3.93225,
+      "max_key_bytes": 4,
+      "db_bytes": 241664,
+      "page_count": 59,
+      "page_size": 4096,
+      "freelist_count": 0,
+      "pages_by_type": {
+        "internal": 1,
+        "leaf": 57
+      },
+      "max_record_payload": 23
+    },
+    {
+      "scheme": "Farey-SRI",
+      "r": 9000,
+      "total_key_bytes": 36267,
+      "mean_key_bytes": 4.0296666666666665,
+      "max_key_bytes": 5,
+      "db_bytes": 274432,
+      "page_count": 67,
+      "page_size": 4096,
+      "freelist_count": 0,
+      "pages_by_type": {
+        "internal": 1,
+        "leaf": 65
+      },
+      "max_record_payload": 24
+    },
+    {
+      "scheme": "Farey-SRI",
+      "r": 10000,
+      "total_key_bytes": 41267,
+      "mean_key_bytes": 4.1267,
+      "max_key_bytes": 5,
+      "db_bytes": 303104,
+      "page_count": 74,
+      "page_size": 4096,
+      "freelist_count": 0,
+      "pages_by_type": {
+        "internal": 1,
+        "leaf": 72
+      },
+      "max_record_payload": 24
+    }
+  ],
+  "sqlite_version": "3.46.1"
+}

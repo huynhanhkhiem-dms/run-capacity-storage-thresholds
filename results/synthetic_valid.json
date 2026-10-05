@@ -1,0 +1,66 @@
+{
+  "FI-62|rightrun|1000": [
+    202,
+    102.5
+  ],
+  "FI-62|rightrun|10000": [
+    2002,
+    1002.5
+  ],
+  "Farey-SRI|rightrun|1000": [
+    4,
+    3.458
+  ],
+  "Farey-SRI|rightrun|10000": [
+    5,
+    4.1267
+  ],
+  "Farey-SRI|rightrun|100000": [
+    5,
+    4.91267
+  ],
+  "FI-62|append|10000": [
+    4,
+    3.6036
+  ],
+  "Farey-SRI|append|10000": [
+    4,
+    3.7828
+  ],
+  "FI-62|alternating|1000": [
+    169,
+    85.834
+  ],
+  "Farey-SRI|alternating|1000": [
+    127,
+    64.25
+  ],
+  "FI-62|random|1000": [
+    170,
+    86.294
+  ],
+  "Farey-SRI|random|1000": [
+    176,
+    89.006
+  ],
+  "Farey-SRI|runs64|10000": [
+    5,
+    2.5326
+  ],
+  "Farey-SRI|runs64|100000": [
+    5,
+    2.54537
+  ],
+  "Reduced-Mediant|runs64|1000": [
+    26,
+    14.168
+  ],
+  "Reduced-Mediant|runs64|10000": [
+    235,
+    118.338
+  ],
+  "FI-36|rightrun|10000": [
+    2002,
+    1002.5
+  ]
+}
